@@ -1,3 +1,0 @@
-POSTGRES_USER="maks"
-POSTGRES_PASSWORD="test"
-POSTGRES_DB="Tester"
